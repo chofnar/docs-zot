@@ -1,39 +1,35 @@
-= {zotUpperName} Registry Administrator Guide
+= {zotUpperName} Administrator Guide
 :doctype: book
 :icons: font
-:source-highlighter: highlightjs
-:toc: left
-:toclevels: 3
-:imagesdir: images
-:title-logo-image: {imagesdir}/zot-01.png
+:source-highlighter: highlight.js
 :sectlinks:
 :zotUpperName: Zot
 :zotLowerName: zot
 
-Revised: 2022-06-30
+Revised: 2022-08-09
 
 //<<<
 
 //include::../../../common/copyright.adoc[]
 
-== Introduction
+//== Introduction
 
-:leveloffset: +1
+//:leveloffset: +1
 
-include::partial$user-guide-chapters/introduction/what-is.adoc[]
+//include::partial$user-guide-chapters/introduction/what-is.adoc[]
 
-include::partial$user-guide-chapters/introduction/why.adoc[]
+//include::partial$user-guide-chapters/introduction/why.adoc[]
 
-:leveloffset: -1
+//:leveloffset: -1
 
 
 == Getting started
 
 :leveloffset: +1
 
-include::partial$user-guide-chapters/introduction/building.adoc[]
+include::partial$user-guide-chapters/getting-started/building.adoc[]
 
-include::partial$user-guide-chapters/introduction/launching.adoc[]
+include::partial$user-guide-chapters/getting-started/launching.adoc[]
 
 :leveloffset: -1
 
