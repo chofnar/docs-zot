@@ -1,1 +1,0 @@
-* xref:draft-developer-guide-chapters.adoc[]
